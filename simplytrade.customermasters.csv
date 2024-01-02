@@ -1,0 +1,3 @@
+_id,name,email,phone,primaryAddress,addresslineOne,addresslineTwo,city,pinCode,district,state,isDelete,isBlock,isSupplier,createdAt,updatedAt,__v
+65797d557e4759e0ba973891,Customer 1,customer1@g.com,9876543210,AHMEDABAD,A1,A2,Ahmedabad,380001,AHMEDABAD,GUJARAT,0,0,0,2023-12-13T09:45:57.645Z,2023-12-13T09:45:57.645Z,0
+65797d647e4759e0ba973893,Customer 2,customer2@g.com,9876543210,AHMEDABAD,A1,A2,Ahmedabad,380001,AHMEDABAD,GUJARAT,0,0,0,2023-12-13T09:46:12.371Z,2023-12-13T09:46:12.371Z,0

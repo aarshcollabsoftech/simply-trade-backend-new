@@ -1,0 +1,2 @@
+_id,organizationId,branchName,primaryAddress,addresslineOne,addresslineTwo,city,pinCode,district,state,mobile,telephone,email,isBlock,isDelete,createdAt,updatedAt,__v
+657c3f44c5302086ef8eea39,657c3f37c5302086ef8eea37,Branch1,Ahmedabad,Cfd,qs,Ahmedabad,980001,Ahmedabad,Gujarat,12345678,12345678,branch1@gmail.com,0,0,2023-12-15T11:57:56.339Z,2023-12-15T11:57:56.339Z,0

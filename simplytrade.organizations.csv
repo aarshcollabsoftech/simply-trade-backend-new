@@ -1,0 +1,2 @@
+_id,GSTIN,orgName,primaryAddress,addresslineOne,addresslineTwo,city,email,isBlock,isDelete,createdAt,updatedAt,__v
+657c3f37c5302086ef8eea37,21345678,Org1,Ahmedabad,Cfd,qs,Ahmedabad,org1@gmail.com,0,0,2023-12-15T11:57:43.975Z,2023-12-15T11:57:43.975Z,0

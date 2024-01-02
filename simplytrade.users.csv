@@ -1,0 +1,2 @@
+_id,adminId,name,email,phone,isBlock,isDelete,role,password,createdAt,updatedAt,__v
+65797956ce3b5c7b2c109ea4,,Admin,admin@collab.com,9876543210,0,0,A,$2b$10$xN4G9y8ab.M3.Pg2UbL52urayOLoZTvjj0Sv10ZcW3gpDCuwymZsu,2023-12-13T09:28:54.663Z,2023-12-13T09:28:54.663Z,0
